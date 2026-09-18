@@ -1,4 +1,5 @@
 # YuE2 Studio for macOS | Usage Instructions, Release Notes, and Compliance Notices
+<img width="1586" height="992" alt="Intro" src="https://github.com/user-attachments/assets/70dc8f43-ff69-4144-ac35-c070fa4fe211" />
 
 > Applies to version: 1.2.4 (Apple Silicon)  
 > Updated: 2026-09-18  
